@@ -1,10 +1,3 @@
-
-<h3 align="center">
-    <img alt="Logo" title="#logo" width="400px" src="src/logo.svg">
-    <br><br>
-    <br>
-</h3>
-
 This project uses lot of stuff as:
 
 - [TypeScript](https://www.typescriptlang.org/)
