@@ -12,10 +12,7 @@ const Header = () => {
   return (
     <S.Header>
       <div>
-        <S.Logo
-          src="/img/logo-black.svg"
-          alt="Imagem de um átomo e React Avançado escrito ao lado."
-        />
+        <S.Logo src="/img/logo-black.svg" alt="logo do site." />
         <p>Books</p>
       </div>
 
