@@ -18,6 +18,11 @@ npm run dev
 yarn dev
 ```
 
+```
+Usuário de Teste: desafio@ioasys.com.br
+Senha de Teste: 12341234
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Commands
@@ -31,9 +36,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
 
-```
-Usuário de Teste: desafio@ioasys.com.br
-Senha de Teste: 12341234
-```
+
 
 
