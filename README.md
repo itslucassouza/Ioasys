@@ -1,6 +1,6 @@
 
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="400px" src="logo.png">
+    <img alt="Logo" title="#logo" width="400px" src="logo.svg">
     <br><br>
     <br>
 </h3>
